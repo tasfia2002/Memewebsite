@@ -1,0 +1,37 @@
+body {
+  background-color: lightpink;
+  color: darkcyan;
+  font-family: 'Lucida Sans';
+  margin: 10px 30px 10px 30px; /* top, right, bottom, left */
+}
+
+h1 {
+  font-size: 40px;
+  font-variant: small-caps;
+  color: black
+}
+
+a {
+  color: lavender
+}
+
+div {
+  border-bottom: 1px dashed red;
+}
+
+#bio {
+  border-bottom: 2px solid red;
+}
+
+.past {
+  height: 400px;
+}
+
+.present {
+  height: 300px;
+}
+
+.caption {
+  font-size: 12px;
+  font-style: italic;;
+}
